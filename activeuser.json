@@ -1,19 +1,5 @@
 [
-    {
-        "device_id": "device123",
-        "username": "user1",
-        "password": "pass123",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
+   {
         "device_id": "35455939ed4362cf",
         "username": "arafat2872",
         "password": "013287",
@@ -26,12 +12,5 @@
         "password": "017510",
         "expirydate": "31-12-4000",
         "Allowoffline": true
-    },
-    {
-        "device_id": "9b05bfe2422368e7",
-        "username": "rohid123",
-        "password": "01306",
-        "expirydate": "15-11-2025",
-        "Allowoffline": false
     }
 ]
