@@ -26,5 +26,12 @@
         "password": "01791",
         "expirydate": "30-11-4000",
         "Allowoffline": true
+   },
+   {
+        "device_id": "d655d8308b6240ab",
+        "username": "waged123",
+        "password": "01719",
+        "expirydate": "25-11-2026",
+        "Allowoffline": false
    }
 ]
